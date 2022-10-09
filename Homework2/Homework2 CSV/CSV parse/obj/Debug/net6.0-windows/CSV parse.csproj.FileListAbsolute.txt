@@ -1,0 +1,17 @@
+C:\Users\locan\source\repos\CSV parse\CSV parse\obj\Debug\net6.0-windows\CSV parse.csproj.AssemblyReference.cache
+C:\Users\locan\source\repos\CSV parse\CSV parse\obj\Debug\net6.0-windows\Csv_parse.Form1.resources
+C:\Users\locan\source\repos\CSV parse\CSV parse\obj\Debug\net6.0-windows\CSV parse.csproj.GenerateResource.cache
+C:\Users\locan\source\repos\CSV parse\CSV parse\obj\Debug\net6.0-windows\CSV parse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\locan\source\repos\CSV parse\CSV parse\obj\Debug\net6.0-windows\CSV parse.AssemblyInfoInputs.cache
+C:\Users\locan\source\repos\CSV parse\CSV parse\obj\Debug\net6.0-windows\CSV parse.AssemblyInfo.cs
+C:\Users\locan\source\repos\CSV parse\CSV parse\obj\Debug\net6.0-windows\CSV parse.csproj.CoreCompileInputs.cache
+C:\Users\locan\source\repos\CSV parse\CSV parse\bin\Debug\net6.0-windows\CSV parse.exe
+C:\Users\locan\source\repos\CSV parse\CSV parse\bin\Debug\net6.0-windows\CSV parse.deps.json
+C:\Users\locan\source\repos\CSV parse\CSV parse\bin\Debug\net6.0-windows\CSV parse.runtimeconfig.json
+C:\Users\locan\source\repos\CSV parse\CSV parse\bin\Debug\net6.0-windows\CSV parse.dll
+C:\Users\locan\source\repos\CSV parse\CSV parse\bin\Debug\net6.0-windows\CSV parse.pdb
+C:\Users\locan\source\repos\CSV parse\CSV parse\obj\Debug\net6.0-windows\CSV parse.dll
+C:\Users\locan\source\repos\CSV parse\CSV parse\obj\Debug\net6.0-windows\refint\CSV parse.dll
+C:\Users\locan\source\repos\CSV parse\CSV parse\obj\Debug\net6.0-windows\CSV parse.pdb
+C:\Users\locan\source\repos\CSV parse\CSV parse\obj\Debug\net6.0-windows\CSV parse.genruntimeconfig.cache
+C:\Users\locan\source\repos\CSV parse\CSV parse\obj\Debug\net6.0-windows\ref\CSV parse.dll
