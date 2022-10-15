@@ -1,0 +1,17 @@
+C:\Users\locan\source\repos\Homework3\Homework3\bin\Debug\net6.0-windows\Homework3.exe
+C:\Users\locan\source\repos\Homework3\Homework3\bin\Debug\net6.0-windows\Homework3.deps.json
+C:\Users\locan\source\repos\Homework3\Homework3\bin\Debug\net6.0-windows\Homework3.runtimeconfig.json
+C:\Users\locan\source\repos\Homework3\Homework3\bin\Debug\net6.0-windows\Homework3.dll
+C:\Users\locan\source\repos\Homework3\Homework3\bin\Debug\net6.0-windows\Homework3.pdb
+C:\Users\locan\source\repos\Homework3\Homework3\obj\Debug\net6.0-windows\Homework3.csproj.AssemblyReference.cache
+C:\Users\locan\source\repos\Homework3\Homework3\obj\Debug\net6.0-windows\Homework3.Form1.resources
+C:\Users\locan\source\repos\Homework3\Homework3\obj\Debug\net6.0-windows\Homework3.csproj.GenerateResource.cache
+C:\Users\locan\source\repos\Homework3\Homework3\obj\Debug\net6.0-windows\Homework3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\locan\source\repos\Homework3\Homework3\obj\Debug\net6.0-windows\Homework3.AssemblyInfoInputs.cache
+C:\Users\locan\source\repos\Homework3\Homework3\obj\Debug\net6.0-windows\Homework3.AssemblyInfo.cs
+C:\Users\locan\source\repos\Homework3\Homework3\obj\Debug\net6.0-windows\Homework3.csproj.CoreCompileInputs.cache
+C:\Users\locan\source\repos\Homework3\Homework3\obj\Debug\net6.0-windows\Homework3.dll
+C:\Users\locan\source\repos\Homework3\Homework3\obj\Debug\net6.0-windows\refint\Homework3.dll
+C:\Users\locan\source\repos\Homework3\Homework3\obj\Debug\net6.0-windows\Homework3.pdb
+C:\Users\locan\source\repos\Homework3\Homework3\obj\Debug\net6.0-windows\Homework3.genruntimeconfig.cache
+C:\Users\locan\source\repos\Homework3\Homework3\obj\Debug\net6.0-windows\ref\Homework3.dll
