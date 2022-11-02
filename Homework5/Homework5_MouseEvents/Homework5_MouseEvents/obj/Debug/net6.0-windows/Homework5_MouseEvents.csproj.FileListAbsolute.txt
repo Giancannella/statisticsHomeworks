@@ -1,0 +1,17 @@
+C:\Users\locan\source\repos\Homework5_MouseEvents\Homework5_MouseEvents\bin\Debug\net6.0-windows\Homework5_MouseEvents.exe
+C:\Users\locan\source\repos\Homework5_MouseEvents\Homework5_MouseEvents\bin\Debug\net6.0-windows\Homework5_MouseEvents.deps.json
+C:\Users\locan\source\repos\Homework5_MouseEvents\Homework5_MouseEvents\bin\Debug\net6.0-windows\Homework5_MouseEvents.runtimeconfig.json
+C:\Users\locan\source\repos\Homework5_MouseEvents\Homework5_MouseEvents\bin\Debug\net6.0-windows\Homework5_MouseEvents.dll
+C:\Users\locan\source\repos\Homework5_MouseEvents\Homework5_MouseEvents\bin\Debug\net6.0-windows\Homework5_MouseEvents.pdb
+C:\Users\locan\source\repos\Homework5_MouseEvents\Homework5_MouseEvents\obj\Debug\net6.0-windows\Homework5_MouseEvents.csproj.AssemblyReference.cache
+C:\Users\locan\source\repos\Homework5_MouseEvents\Homework5_MouseEvents\obj\Debug\net6.0-windows\Homework5_MouseEvents.Form1.resources
+C:\Users\locan\source\repos\Homework5_MouseEvents\Homework5_MouseEvents\obj\Debug\net6.0-windows\Homework5_MouseEvents.csproj.GenerateResource.cache
+C:\Users\locan\source\repos\Homework5_MouseEvents\Homework5_MouseEvents\obj\Debug\net6.0-windows\Homework5_MouseEvents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\locan\source\repos\Homework5_MouseEvents\Homework5_MouseEvents\obj\Debug\net6.0-windows\Homework5_MouseEvents.AssemblyInfoInputs.cache
+C:\Users\locan\source\repos\Homework5_MouseEvents\Homework5_MouseEvents\obj\Debug\net6.0-windows\Homework5_MouseEvents.AssemblyInfo.cs
+C:\Users\locan\source\repos\Homework5_MouseEvents\Homework5_MouseEvents\obj\Debug\net6.0-windows\Homework5_MouseEvents.csproj.CoreCompileInputs.cache
+C:\Users\locan\source\repos\Homework5_MouseEvents\Homework5_MouseEvents\obj\Debug\net6.0-windows\Homework5_MouseEvents.dll
+C:\Users\locan\source\repos\Homework5_MouseEvents\Homework5_MouseEvents\obj\Debug\net6.0-windows\refint\Homework5_MouseEvents.dll
+C:\Users\locan\source\repos\Homework5_MouseEvents\Homework5_MouseEvents\obj\Debug\net6.0-windows\Homework5_MouseEvents.pdb
+C:\Users\locan\source\repos\Homework5_MouseEvents\Homework5_MouseEvents\obj\Debug\net6.0-windows\Homework5_MouseEvents.genruntimeconfig.cache
+C:\Users\locan\source\repos\Homework5_MouseEvents\Homework5_MouseEvents\obj\Debug\net6.0-windows\ref\Homework5_MouseEvents.dll
