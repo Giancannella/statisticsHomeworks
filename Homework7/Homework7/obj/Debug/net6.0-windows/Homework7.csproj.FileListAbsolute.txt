@@ -1,0 +1,17 @@
+C:\Users\locan\source\repos\Homework7\Homework7\bin\Debug\net6.0-windows\Homework7.exe
+C:\Users\locan\source\repos\Homework7\Homework7\bin\Debug\net6.0-windows\Homework7.deps.json
+C:\Users\locan\source\repos\Homework7\Homework7\bin\Debug\net6.0-windows\Homework7.runtimeconfig.json
+C:\Users\locan\source\repos\Homework7\Homework7\bin\Debug\net6.0-windows\Homework7.dll
+C:\Users\locan\source\repos\Homework7\Homework7\bin\Debug\net6.0-windows\Homework7.pdb
+C:\Users\locan\source\repos\Homework7\Homework7\obj\Debug\net6.0-windows\Homework7.csproj.AssemblyReference.cache
+C:\Users\locan\source\repos\Homework7\Homework7\obj\Debug\net6.0-windows\Homework7.Form1.resources
+C:\Users\locan\source\repos\Homework7\Homework7\obj\Debug\net6.0-windows\Homework7.csproj.GenerateResource.cache
+C:\Users\locan\source\repos\Homework7\Homework7\obj\Debug\net6.0-windows\Homework7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\locan\source\repos\Homework7\Homework7\obj\Debug\net6.0-windows\Homework7.AssemblyInfoInputs.cache
+C:\Users\locan\source\repos\Homework7\Homework7\obj\Debug\net6.0-windows\Homework7.AssemblyInfo.cs
+C:\Users\locan\source\repos\Homework7\Homework7\obj\Debug\net6.0-windows\Homework7.csproj.CoreCompileInputs.cache
+C:\Users\locan\source\repos\Homework7\Homework7\obj\Debug\net6.0-windows\Homework7.dll
+C:\Users\locan\source\repos\Homework7\Homework7\obj\Debug\net6.0-windows\refint\Homework7.dll
+C:\Users\locan\source\repos\Homework7\Homework7\obj\Debug\net6.0-windows\Homework7.pdb
+C:\Users\locan\source\repos\Homework7\Homework7\obj\Debug\net6.0-windows\Homework7.genruntimeconfig.cache
+C:\Users\locan\source\repos\Homework7\Homework7\obj\Debug\net6.0-windows\ref\Homework7.dll
