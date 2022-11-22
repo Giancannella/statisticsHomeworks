@@ -1,0 +1,18 @@
+C:\Users\locan\source\repos\Homework8(polar coord)\Homework8(polar coord)\obj\Debug\net6.0-windows\Homework8(polar coord).csproj.AssemblyReference.cache
+C:\Users\locan\source\repos\Homework8(polar coord)\Homework8(polar coord)\obj\Debug\net6.0-windows\Homework8_polar_coord_.Form1.resources
+C:\Users\locan\source\repos\Homework8(polar coord)\Homework8(polar coord)\obj\Debug\net6.0-windows\Homework8(polar coord).csproj.GenerateResource.cache
+C:\Users\locan\source\repos\Homework8(polar coord)\Homework8(polar coord)\obj\Debug\net6.0-windows\Homework8(polar coord).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\locan\source\repos\Homework8(polar coord)\Homework8(polar coord)\obj\Debug\net6.0-windows\Homework8(polar coord).AssemblyInfoInputs.cache
+C:\Users\locan\source\repos\Homework8(polar coord)\Homework8(polar coord)\obj\Debug\net6.0-windows\Homework8(polar coord).AssemblyInfo.cs
+C:\Users\locan\source\repos\Homework8(polar coord)\Homework8(polar coord)\obj\Debug\net6.0-windows\Homework8(polar coord).csproj.CoreCompileInputs.cache
+C:\Users\locan\source\repos\Homework8(polar coord)\Homework8(polar coord)\bin\Debug\net6.0-windows\Homework8(polar coord).exe
+C:\Users\locan\source\repos\Homework8(polar coord)\Homework8(polar coord)\bin\Debug\net6.0-windows\Homework8(polar coord).deps.json
+C:\Users\locan\source\repos\Homework8(polar coord)\Homework8(polar coord)\bin\Debug\net6.0-windows\Homework8(polar coord).runtimeconfig.json
+C:\Users\locan\source\repos\Homework8(polar coord)\Homework8(polar coord)\bin\Debug\net6.0-windows\Homework8(polar coord).dll
+C:\Users\locan\source\repos\Homework8(polar coord)\Homework8(polar coord)\bin\Debug\net6.0-windows\Homework8(polar coord).pdb
+C:\Users\locan\source\repos\Homework8(polar coord)\Homework8(polar coord)\obj\Debug\net6.0-windows\Homework8(polar coord).dll
+C:\Users\locan\source\repos\Homework8(polar coord)\Homework8(polar coord)\obj\Debug\net6.0-windows\refint\Homework8(polar coord).dll
+C:\Users\locan\source\repos\Homework8(polar coord)\Homework8(polar coord)\obj\Debug\net6.0-windows\Homework8(polar coord).pdb
+C:\Users\locan\source\repos\Homework8(polar coord)\Homework8(polar coord)\obj\Debug\net6.0-windows\Homework8(polar coord).genruntimeconfig.cache
+C:\Users\locan\source\repos\Homework8(polar coord)\Homework8(polar coord)\obj\Debug\net6.0-windows\ref\Homework8(polar coord).dll
+C:\Users\locan\source\repos\Homework8(polar coord)\Homework8(polar coord)\obj\Debug\net6.0-windows\Homework8_polar_coord_.Properties.Resources.resources
